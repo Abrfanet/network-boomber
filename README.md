@@ -1,0 +1,4 @@
+REQUIREMENTS
+nmap
+curl
+xdotool
